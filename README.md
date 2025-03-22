@@ -2,16 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">I'm Bryan, a full-time full-stack freelance developer and 24/7 network engineer 👨‍💻 and working on serveral projects 🚀 </div>  
+### <div align="center">I'm Bryan, a full-time full-stack freelance developer /div> 
   
 
 - 🔭 I’m currently developing on custom CRM/HRM systems  
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
 - ⚡ Fun fact: I use tabs over spaces  
   
 
