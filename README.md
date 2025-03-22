@@ -31,7 +31,7 @@ I'm always happy to contribute, collaborate, or just chat tech.
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/bryan-van-der-starre/)) *(drop your actual link if you want it added)*  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/bryan-van-der-starre/]
 
 ---
 
